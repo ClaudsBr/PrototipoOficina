@@ -25,7 +25,5 @@ Para acessar a parte CRUD da aplicação utiliza-se o caminho:
 localhost:8000/read/
 ```
 
-## Referências:
 
-CRUD em Python: <https://webdesignemfoco.com/cursos/python>
 
